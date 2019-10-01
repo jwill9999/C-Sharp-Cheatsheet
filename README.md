@@ -681,7 +681,7 @@ abstract class FourLeggedAnimal
 * Interfaces are similar to Abstract Classes
 * No Instances are created.
 
-> NO METHODS ARE ALLOWED AT ALL
+> NO METHOD IMPLEMENTATIONS ARE ALLOWED AT ALL
 
 * All Interfaces are Public
 
