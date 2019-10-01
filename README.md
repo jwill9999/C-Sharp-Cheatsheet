@@ -263,7 +263,7 @@ double d;
 |```float```|f, salary;|
 |```double```|d;|
 
-## Initialise Varaiable
+## Initialise Variable
 
 ```c#
 variable_name = value;
@@ -489,9 +489,9 @@ class SillyMath
 
 <br>
 
-# Class Visability
+# Class Visibility
 
-| Visability       | Definition         | 
+| Visibility       | Definition         | 
 | ------------- |:-------------| 
 | public    | the member can be reached from anywhere. This is the least restrictive visibility. Enums and interfaces are, by default, publicly visible |
 | protected      | members can only be reached from within the same class, or from a class which inherits from this class.      |
@@ -1025,7 +1025,7 @@ listOfNames.Remove("Joe Doe");
 * Dictionary<TKey, TValue>
 
 
-## Difference between Lists vr Dictionaries
+## Difference between Lists vs Dictionaries
 
 ### Lists 
 
